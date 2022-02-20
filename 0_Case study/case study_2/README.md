@@ -54,6 +54,11 @@ power supply availability.
 * A GSM modem is a specialized type of modem which accepts a Subscriber Identity Module (SIM) card, and operates over a subscription to a mobile operator, just like a mobile phone. From the mobile operator perspective, a GSM modem looks just like a mobile phone. A GSM modem exposes an interface that allows applications to send and receive messages over the modem interface. Liquid Crystal Display (LCD) is the example for the parallel port. This example doesn't use the bi-directional feature found on newer ports, thus it should work with most, if not all parallel ports. 
 * These LCD modules are very common these days, and are quite simple to work with, as all the logic required for running them is on board.
 
+## Flow Chart:
+
+![Untitled Workspace (4)](https://user-images.githubusercontent.com/98894505/154849484-be915a49-0570-4a84-889d-b4f35c486fac.jpg)
+
+
 
 
 
