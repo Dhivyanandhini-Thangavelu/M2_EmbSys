@@ -35,6 +35,13 @@
 * From the view of the mobile phone network, they are essentially identical to an ordinary mobile phone, including the need for a SIM to identify themselves to the network.
 
 ### Microcontroller:
+* It is a programmable integrated circuit (IC) that consists of a small CPU, RAM and I/O pins. 
+* Microcontroller units (MCUs) are widely used in many devices.
+* It stores the instructions and data required by the microcontroller.
+* It acts as a communication medium between components for data transfer.
+
+
+
 
 
 
