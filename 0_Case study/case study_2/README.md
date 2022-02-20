@@ -40,6 +40,11 @@
 * It stores the instructions and data required by the microcontroller.
 * It acts as a communication medium between components for data transfer.
 
+### Display:
+* It is a flat display technology, stands for "Liquid Crystal Display," which is generally used in computer monitors, instrument panels, cell phones, digital cameras, TVs, laptops, tablets, and calculators. 
+* It is a thin display device that offers support for large resolutions and better picture quality.
+
+
 
 
 
