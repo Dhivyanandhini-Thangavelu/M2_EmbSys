@@ -29,5 +29,13 @@
 * There are DB9-DB25 adapters that easily convert a DB9 socket to DB25 and vice versa.
 
 ### GSM:
+* The Global System for Mobile Communications (GSM) is a standard developed by the European Telecommunications Standards Institute (ETSI).
+* It is developed to describe the protocols for second-generation (2G) digital cellular networks used by mobile devices such as mobile phones and tablets.
+* It is a hardware device that uses GSM mobile telephone technology to provide a data link to a remote network. 
+* From the view of the mobile phone network, they are essentially identical to an ordinary mobile phone, including the need for a SIM to identify themselves to the network.
+
+### Microcontroller:
+
+
 
 
