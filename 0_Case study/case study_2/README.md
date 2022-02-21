@@ -4,7 +4,7 @@
 
 ![Untitled Workspace (3)](https://user-images.githubusercontent.com/98894505/154846598-d0582258-fc95-4795-95e6-a06deb8bcbb0.jpg)
 
-## Components reuired:
+## Components required:
 
 ### Transformer:
 * A transformer is a device that transfers electric energy from one alternating-current circuit to one or more other circuits, either increasing (stepping up) or reducing (stepping down) the voltage.
