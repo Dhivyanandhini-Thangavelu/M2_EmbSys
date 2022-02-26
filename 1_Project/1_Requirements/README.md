@@ -19,6 +19,9 @@
 * The main goal of  the project is to clarrify management issues.
 * Automated data collection in real time system.
 * To reduce the manual observation of machine process.
+* To reduce the manual observation of machine process.
+* The data acquisition is automatically monitored in excel system.
+* The data is analyzed in ESP8266 and also stored in database.
 
 # 2 Requirements:
 
