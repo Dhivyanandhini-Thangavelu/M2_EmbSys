@@ -17,6 +17,15 @@
 * Automated data collection in real time system.
 * To reduce the manual observation of machine process.
 
+# 2 Requirements:
+
+
+
+
+
+
+
+
 
 
 
