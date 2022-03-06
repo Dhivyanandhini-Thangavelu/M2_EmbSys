@@ -29,10 +29,16 @@
 
 | HLR | Description |
 |-----|-------------|
-| H01 | aa |
-| H02 | bb |
-| H03 | cc |
-## 2.2 Low level requirements
+| H_01 | aa |
+| H_02 | bb |
+| H_03 | cc |
+## 2.2 Low level requirements:
+
+| LLR | HLR | Description |
+| ----|-----|-------------|
+| L_01|H_01 | aa |
+| L_02|H_02 | bb |
+|L_03|H_03 | cc |
 
 ## 2.3 SWOT analysis:
 
