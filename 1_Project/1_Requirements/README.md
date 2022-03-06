@@ -1,4 +1,4 @@
-# 1 About Industrial automation using IOT with data monitoring and controlling:
+# 1 About Industrial automation using IoT with data monitoring and controlling:
 
 ## 1.1 Description:
 * Automation is one of the increasing needs with in industries as well as for reduces the human efforts by replacing the human efforts by system which are self operated, The Internet is one way of the growing plat from for automation, through which new advancement are made through which on easily monitor as well control the system using internet. 
