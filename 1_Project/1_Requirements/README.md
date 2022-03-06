@@ -32,7 +32,7 @@
 
 ![Yellow Professional Gradient App Development SWOT Analysis Graph (1)](https://user-images.githubusercontent.com/98894505/156933099-2321adea-9ae0-4c84-a369-6618bc4557a6.png)
 
-## 2.4 5W's annd 1H:
+## 2.4 5W's and 1H:
 
 ![Colorful Minimalist Linear Steps Circular Diagram](https://user-images.githubusercontent.com/98894505/156939551-e38345b2-166e-4650-998b-1c3bd3bec2c7.png)
 
