@@ -29,16 +29,19 @@
 
 | HLR | Description |
 |-----|-------------|
-| H_01 | aa |
-| H_02 | bb |
-| H_03 | cc |
+| HLR_01 | This shall monitor the temperature |
+| HLR_02 | This shall monitor the humidity |
+| HLR_03 | This shall monitor the counting |
 ## 2.2 Low level requirements:
 
 | LLR | HLR | Description |
 | ----|-----|-------------|
-| L_01|H_01 | aa |
-| L_02|H_02 | bb |
-|L_03|H_03 | cc |
+| LLR_01 |HLR_01 | This shall observe the temperature of parameter |
+| LLR_02 |HLR_01| The observed parameters are displayed in PC using Wifi module |
+| LLR_03 |HLR_02 | This shall observe the humidity of parameters of industry |
+| LLR_04 | HLR_02 | The observed para meters are displayed in PC using wifi module |
+| LLR_05 | HLR_03 | This shall observe the number equipments |
+| LLR_06 | HLR_03 | The monitored number of equipments displayed on PC using wifi |
 
 ## 2.3 SWOT analysis:
 
