@@ -48,7 +48,7 @@
 ## 2.4 5W's and 1H:
 
 
-![Colorful Minimalist Linear Steps Circular Diagram](https://user-images.githubusercontent.com/98894505/156939551-e38345b2-166e-4650-998b-1c3bd3bec2c7.png)
+![Colorful Minimalist Linear Steps Circular Diagram (1)](https://user-images.githubusercontent.com/98894505/156940722-db95b62f-de44-4487-9cee-1d3ebdf1eaf2.png)
 
 
 
