@@ -26,6 +26,12 @@
 # 2 Requirements:
 
 ## 2.1 High level requirements:
+
+| HLR | Description |
+|-----|-------------|
+| H01 | aa |
+| H02 | bb |
+| H03 | cc |
 ## 2.2 Low level requirements
 
 ## 2.3 SWOT analysis:
