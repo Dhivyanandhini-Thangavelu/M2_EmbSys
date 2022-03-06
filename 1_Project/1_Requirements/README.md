@@ -25,6 +25,9 @@
 
 # 2 Requirements:
 
+![Yellow Professional Gradient App Development SWOT Analysis Graph (1)](https://user-images.githubusercontent.com/98894505/156933099-2321adea-9ae0-4c84-a369-6618bc4557a6.png)
+
+
 
 
 
