@@ -94,6 +94,12 @@
 
 ![Colorful Cosmic Sky Steps Diagram (1)](https://user-images.githubusercontent.com/98894505/157035278-bc200112-27af-4a3d-a798-ac7e85889ef5.png)
 
+# 3 Behavioural diagram:
+
+![Untitled Diagram drawio (1)](https://user-images.githubusercontent.com/98894505/157110463-d3927d16-351f-46d9-b689-bf13cb577067.png)
+
+
+
 
 
 
