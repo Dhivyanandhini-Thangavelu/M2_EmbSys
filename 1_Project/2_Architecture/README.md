@@ -94,7 +94,7 @@
 
 ## 2.1 Use case diagram:
 
-![Colorful Cosmic Sky Steps Diagram](https://user-images.githubusercontent.com/98894505/157034848-bd077248-ce46-45d4-b874-685ab6161409.png)
+![Colorful Cosmic Sky Steps Diagram (1)](https://user-images.githubusercontent.com/98894505/157035278-bc200112-27af-4a3d-a798-ac7e85889ef5.png)
 
 
 
