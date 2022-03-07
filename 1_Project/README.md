@@ -7,3 +7,6 @@
 
 ### * Score:
 ![codiga score](https://api.codiga.io/project/31645/score/svg)
+
+## Badge of Codacy:
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/d9e13e6376a84713b5df2e5e85d1b3a9)](https://www.codacy.com/gh/Dhivyanandhini-Thangavelu/M2_EmbSys/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Dhivyanandhini-Thangavelu/M2_EmbSys&amp;utm_campaign=Badge_Grade)
