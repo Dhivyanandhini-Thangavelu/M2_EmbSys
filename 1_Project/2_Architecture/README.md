@@ -90,6 +90,13 @@
 * It is a semiconductor diode that emits light when conducting current and is used in electronic displays, indoor and outdoor lighting, etc.
 * It convert electrical energy directly into light, delivering efficient light generation with little-wasted electricity.
 
+# 2 Structural diagram:
+
+## 2.1 Use case diagram:
+
+![Colorful Cosmic Sky Steps Diagram](https://user-images.githubusercontent.com/98894505/157034848-bd077248-ce46-45d4-b874-685ab6161409.png)
+
+
 
 
 
