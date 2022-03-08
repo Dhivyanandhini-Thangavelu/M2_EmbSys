@@ -1,4 +1,4 @@
-# Test Case:
+## Test Case:
 
 | Test ID | Test case objective | Input Data | Expected Data | Actual output |
 | --------| --------------------|------------|---------------|---------------|
@@ -6,7 +6,7 @@
 | TC_2 | Temperature | Detecting low temperature | Low temperature | Low temperature |
 | TC_3 | Object Count | Detecting the objects   | Object found | Object found|
 
-# High level Test plan:
+## High level Test plan:
 
 | ID| Description |Status|
 |-----|-------------|----|
