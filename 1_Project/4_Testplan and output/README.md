@@ -6,7 +6,7 @@
 | TC_2 | Temperature | Detecting low temperature | Low temperature | Low temperature |
 | TC_3 | Object Count | Detecting the objects   | Object found | Object found|
 
-## High level Test plan:
+## High level Test plan
 
 | ID| Description |Status|
 |-----|-------------|----|
@@ -15,6 +15,16 @@
 | 03 | This shall monitor the counting | implemented |
 
 ## Low level test plan
+
+| ID | Description |Status |
+| ----|-------------|------ |
+| 01 | This shall observe the temperature of parameter | implemented |
+| 02 | The observed parameters are displayed in PC using Wifi module | implmented |
+| 03 | This shall observe the humidity of parameters of industry | implemented |
+| 04 |  The observed para meters are displayed in PC using wifi module | implemented |
+| 05 |  This shall observe the number of equipments | implemented |
+| 06 | The monitored number of equipments displayed on PC using wifi | Not implemented |
+
 
 
 
