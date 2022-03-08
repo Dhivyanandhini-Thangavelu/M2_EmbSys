@@ -10,9 +10,9 @@
 
 | ID| Description |Status|
 |-----|-------------|----|
-| HLR_01 | This shall monitor the temperature | implemented |
-| HLR_02 | This shall monitor the humidity | implemented |
-| HLR_03 | This shall monitor the counting | implemented |
+| 01 | This shall monitor the temperature | implemented |
+| 02 | This shall monitor the humidity | implemented |
+| 03 | This shall monitor the counting | implemented |
 
 
 
