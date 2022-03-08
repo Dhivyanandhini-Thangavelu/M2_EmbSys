@@ -96,6 +96,10 @@
 
 # 3 Behavioural diagram:
 
+![Elements of Design Venn Diagram](https://user-images.githubusercontent.com/98894505/157173143-e192eb18-d3e7-47c3-903e-ea1cbf7aa155.png)
+
+# 4 Flow chart:
+
 ![Untitled Diagram drawio (1)](https://user-images.githubusercontent.com/98894505/157110463-d3927d16-351f-46d9-b689-bf13cb577067.png)
 
 
