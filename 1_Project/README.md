@@ -16,10 +16,10 @@
 |Folder|Description|
 |------|-----------|
 | 1_Requirements| Introduction,High and Low level requirements,SWOT analysis,5W's and 1H|
-| 2_Architecture|   |
-| 3_implementation|  |
-| 4_Testplan and output| |
-| 5_Applications|  |
-| 6_Report| |
-| 7_images and videos|  |
-| 8_others| |
+| 2_Architecture| Block diagram,Structural diagram,Behavioural diagram,Flow chart |
+| 3_implementation| Code files for the project |
+| 4_Testplan and output| Test plan and output files|
+| 5_Applications| Applications of the project |
+| 6_Report|Report of the whole project |
+| 7_images and videos| Excecution images and videos |
+| 8_others| Any other comments|
