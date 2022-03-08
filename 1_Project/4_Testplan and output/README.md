@@ -1,3 +1,37 @@
+# Test Case:
+
+| Test ID | Test case objective | Input Data | Expected Data | Actual output |
+| --------| --------------------|------------|---------------|---------------|
+| TC_1 | Temperature | Detecting high temperature| High temperature | High temperature |
+| TC_2 | Temperature | Detecting low temperature | Low temperature | Low temperature |
+| TC_3 | Object Count | Detecting the objects   | Object found | Object found|
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Simulation Picture:
 
 ![1](https://user-images.githubusercontent.com/98894505/157102007-6681dcc2-e12c-47fa-aba6-f5d3dc7ae015.PNG)
