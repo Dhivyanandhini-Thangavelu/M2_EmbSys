@@ -6,6 +6,14 @@
 | TC_2 | Temperature | Detecting low temperature | Low temperature | Low temperature |
 | TC_3 | Object Count | Detecting the objects   | Object found | Object found|
 
+# High level Test plan:
+
+| ID| Description |Status|
+|-----|-------------|----|
+| HLR_01 | This shall monitor the temperature | implemented |
+| HLR_02 | This shall monitor the humidity | implemented |
+| HLR_03 | This shall monitor the counting | implemented |
+
 
 
 
