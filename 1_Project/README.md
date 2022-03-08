@@ -2,10 +2,10 @@
 
 ## Badge of Codiga:
 
-### * Grade:
+### Grade:
 ![codiga_grade](https://api.codiga.io/project/31645/status/svg)
 
-### * Score:
+### Score:
 ![codiga score](https://api.codiga.io/project/31645/score/svg)
 
 ## Badge of Codacy:
