@@ -40,7 +40,7 @@
 | LLR_02 |HLR_01| The observed parameters are displayed in PC using Wifi module |
 | LLR_03 |HLR_02 | This shall observe the humidity of parameters of industry |
 | LLR_04 | HLR_02 | The observed para meters are displayed in PC using wifi module |
-| LLR_05 | HLR_03 | This shall observe the number equipments |
+| LLR_05 | HLR_03 | This shall observe the number of equipments |
 | LLR_06 | HLR_03 | The monitored number of equipments displayed on PC using wifi |
 
 ## 2.3 SWOT analysis:
