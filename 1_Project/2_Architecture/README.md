@@ -92,7 +92,7 @@
 
 # 2 Structural diagram:
 
-![Colorful Cosmic Sky Steps Diagram (1)](https://user-images.githubusercontent.com/98894505/157035278-bc200112-27af-4a3d-a798-ac7e85889ef5.png)
+![Colorful Cosmic Sky Steps Diagram (2)](https://user-images.githubusercontent.com/98894505/157175808-01026a65-d06c-4609-aaee-c7c2fd5e9128.png)
 
 # 3 Behavioural diagram:
 
