@@ -15,8 +15,7 @@
 
 |Folder|Description|
 |------|-----------|
-| 1_Requirements|  * About pproject * High and Low level requirements |
-
+| 1_Requirements| Introduction,High and Low level requirements,SWOT analysis,5W's and 1H|
 | 2_Architecture|   |
 | 3_implementation|  |
 | 4_Testplan and output| |
