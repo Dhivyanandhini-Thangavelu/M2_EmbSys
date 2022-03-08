@@ -63,11 +63,11 @@
 
 ### BUZZER / LED:
 
-#### * BUZZER:
+#### BUZZER:
 
 * Buzzer is an electrical device that makes a buzzing noise and is used for signalling.
 
-#### * LED:
+#### LED:
 
 * It is a semiconductor diode that emits light when conducting current and is used in electronic displays, indoor and outdoor lighting, etc.
 * It convert electrical energy directly into light, delivering efficient light generation with little-wasted electricity.
